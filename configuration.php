@@ -1,7 +1,7 @@
 <?php
     //connect to server and select database
-    $username = "root";
-    $password = "password";
+    $username = "nixx";
+    $password = "7BBC610C4A815FD0DB49F7094AF36F9D3E0C4EE43B9C380660346C4ACE8403AF";
     $symbol = $_POST['symbol'];
     $startDate = $_POST['startDate'];
     $endDate = $_POST['endDate'];

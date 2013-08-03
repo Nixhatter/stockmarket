@@ -31,3 +31,10 @@ function getSymbol() {
 	     	}
 		}
 }
+function toUpperCase(inputID) {
+var input = document.getElementById(inputID);
+
+input.onkeyup = function(){
+    this.value = this.value.toUpperCase();
+}
+}

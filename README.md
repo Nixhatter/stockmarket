@@ -3,6 +3,8 @@ stockmarket
 
 Stock Market Helper
 
+IN DEVELOPMENT
+
 What does it do:
 - Displays basic information about an equity like current price, updated frequently
 - Displays historical data on equity
